@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e4RckW8+1JERghYgyncMEtnkHEZAsbeqkVo2bsxTZNf6Af9XR7+g4eMcWP+oxy1Fbm7xGnrm/+KJ1R61V/GEYA==",
+  "success": true,
+  "projectFilePath": "/Developer/Project/Tai/net6/SampleCICD/SampleAPI/SampleAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/linzhengxiang/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/linzhengxiang/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/linzhengxiang/.nuget/packages/swashbuckle.aspnetcore/6.1.5/swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "/Users/linzhengxiang/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.5/swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "/Users/linzhengxiang/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.5/swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "/Users/linzhengxiang/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.5/swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
